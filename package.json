@@ -1,0 +1,24 @@
+{
+  "name": "discord-escape",
+  "version": "1.0.0",
+  "description": "Escape discord message to avoid unwanted mention/spoiler/bold... formatting",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "homepage": "https://github.com/Swiiz/discord-escape#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Swiiz/discord-escape.git"
+  },
+  "keywords": [
+    "discord",
+    "escape",
+    "escaper",
+    "markdown",
+    "mention"
+  ],
+  "author": "Swiiz",
+  "license": "MIT"
+}
