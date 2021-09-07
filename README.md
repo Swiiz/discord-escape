@@ -11,7 +11,7 @@ npm install discord-escape
 
 🛒 Sample code snippet:
 ```JS
-const escape = require("../index");
+const escape = require("discord-escape");
 
 console.log(escape("@everyone **This is a test** __yeah!__ `ok?`"));
 // @​everyone \*\*This is a test\*\* \_\_yeah\!\_\_ \`ok?\`
