@@ -1,7 +1,9 @@
 # 📥 Discord Escape
 
 🔭 Escape formatting characters in order to send messages to discord based on regex.
-NEW: Now supports headings, bullet list, numbered list
+
+####  NEW: Now supports headings, bullet list, numbered list
+New features only works if building from source (npm version is not up to date)
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
